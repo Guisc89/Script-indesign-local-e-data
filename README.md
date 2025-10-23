@@ -17,6 +17,7 @@ Ideal para quem trabalha com design editorial, relatórios, folhetos e materiais
 1. Copie o arquivo `InserirDataPortugues.jsx` para o diretório de scripts do InDesign
 
    **Windows:** C:\Program Files\Adobe\Adobe InDesign 2025\Scripts\Scripts Panel
+   Após ative o script no Indesign em: janela > utilitários > script 
 
 🧰 Tecnologias Utilizadas
 
